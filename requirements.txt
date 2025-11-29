@@ -2,6 +2,8 @@ streamlit>=1.18
 openai>=0.27
 streamlit
 openai
-
 langchain
 groq
+streamlit
+groq
+pandas
